@@ -1,8 +1,8 @@
-<h2 align="center">Welcome to my Gitbub! 👋</h2>
+<h2 align="center">Welcome to 👨🏾‍💻 my Gitbub!</h2>
 
 ###
 
-<h5 align="center">👋 Hi! My name is Felipe, and I currently work in the ISP field.<br>💡 I’m always looking to learn new things and keep growing, both personally and professionally. 🚀</h5>
+<h4 align="center">👋 Hi! My name is Felipe, and I currently work in the ISP field.<br>📂 Here you’ll find a little bit of my projects. <br>💡Always learning!🚀</h4>
 
 ###
 
