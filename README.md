@@ -7,8 +7,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=felipemaya14&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph"/>
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=felipemaya14&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=en&hide_border=true&order=1" height="150" alt="stats graph"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=felipemaya14&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&order=1"/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=felipemaya14&radius=16&theme=tokyo-night&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"/>
 </div>
 
